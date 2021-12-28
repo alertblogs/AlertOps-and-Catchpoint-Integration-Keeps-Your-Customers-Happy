@@ -1,40 +1,33 @@
-AlertOps Expert Guidance
+AlertOps and Catchpoint Integration Keeps Your Customers Happy
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+Your website is your online business card, storefront, help center, and maybe even more. In the digital age, customers have come to expect reliability. If your website is slow, timed out, or—worst of all—offline, it’s only a matter of minutes before customers start abandoning your website or complaining.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+This costs you money.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+Catchpoint is an advanced digital experience monitor that alerts you as soon as customer facing systems are underperforming or down. With Catchpoint you always know which systems are healthy and which ones need work, so you never lose a sale to slow web performance.
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+Catchpoint is an awesome monitoring tool. However, it’s only a monitoring tool, not an incident management system. Integrating AlertOps and Catchpoint creates a complete incident detection and management system that enables you to identify issues and communicate with the people who can fix them.
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+Here’s how AlertOps and Catchpoint maximize the uptime and performance of your customer facing systems:
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+    AlertOps instantly pages the team member who can solve the problem as soon as it receives an error message from Catchpoint. Alerts can be sent to teams via email, voice, SMS, or mobile push notifications.
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+This can cut minutes off your response time and ensure that alerts are never missed.
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+    AlertOps sends alerts to multiple teams at once so you can resolve complex incidents faster.
+    AlertOps sends custom messages with alerts so your teams can get to work right away and reduce your time to resolution.
 
-1 Red Canary 2021 Threat Detection Report
+These are just a few of the capabilities an AlertOps and Catchpoint integration brings to the incident management table. AlertOps also offers a complete set of incident management tools—configurable message routing, customizable workflows, and automated incident escalation according to escalation policies—that make incident management easy.
+
+Head over to our help center to learn how to configure an AlertOps and Catchpoint integration and find out what else AlertOps and Catchpoint can do for you.
+
+Or check out over 50 third party integrations for the monitoring and communication tools you already know and love!
+
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/catchpoint-poor-web-performance-blog/
 
 Read more:
 ====
